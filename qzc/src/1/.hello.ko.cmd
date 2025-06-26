@@ -1,0 +1,1 @@
+savedcmd_/home/qzc/workspace/ldd-test/1/hello.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/qzc/workspace/ldd-test/1/hello.ko /home/qzc/workspace/ldd-test/1/hello.o /home/qzc/workspace/ldd-test/1/hello.mod.o /home/qzc/workspace/ldd-test/1/.module-common.o

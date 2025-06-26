@@ -1,0 +1,1 @@
+savedcmd_/home/qzc/workspace/ldd-test/1/Module.symvers :=  scripts/mod/modpost -M -m -a -E     -o /home/qzc/workspace/ldd-test/1/Module.symvers -T /home/qzc/workspace/ldd-test/1/modules.order -i Module.symvers -e 
